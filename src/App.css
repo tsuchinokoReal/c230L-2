@@ -10,7 +10,7 @@ body {
 .todo-app {
   max-width: 400px;
   text-align: center;
-  background: #fff; /* Background color for the Todo app */
+  background: #fff; 
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -23,12 +23,12 @@ body {
 .todo-input-container input {
   padding: 8px;
   margin-right: 5px;
-  border: 1px solid #ccc; /* Border for the input box */
+  border: 1px solid #ccc; 
   border-radius: 5px;
 }
 
 .todo-input-container button {
-  background-color: #4caf50; /* Button background color */
+  background-color: #4caf50; 
   color: #fff;
   border: none;
   padding: 8px 12px;
@@ -48,15 +48,15 @@ body {
   background-color: #f4f4f4;
   padding: 8px;
   margin-bottom: 5px;
-  border: 1px solid #ddd; /* Border for the list items */
+  border: 1px solid #ddd;
   border-radius: 5px;
 }
 
 .todo-list li:nth-child(even) {
-  background-color: #e0e0e0; /* Background color for even items */
+  background-color: #e0e0e0;
 }
 
 .todo-list li:hover {
-  background-color: #b3e0ff; /* Background color on hover */
-  color: #333; /* Text color on hover */
+  background-color: #b3e0ff; 
+  color: #333; 
 }
